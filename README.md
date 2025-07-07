@@ -5,7 +5,7 @@ web developer
 -------------
 ![ME](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4dWJld2tnMDZxbmVpOGhqdDhhOWpibDZkeTZpYmZsNHd4d21jOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
-ive been learning coding for 5 years and i passionate about this field
+ive been learning coding for 5 years and iam passionate about this field
 
 * 🌍  I'm based in lebanon
 * ✉️  You can contact me at [mortadaahmad@gmail.com](mailto:mortadaahmad@gmail.com)
